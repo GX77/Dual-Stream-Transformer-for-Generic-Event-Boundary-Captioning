@@ -1,0 +1,5 @@
+*.pyc
+.idea
+*stanford-corenlp-3.6.0*.jar
+*tmp*
+*cache

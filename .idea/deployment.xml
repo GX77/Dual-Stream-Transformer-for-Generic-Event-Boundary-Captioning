@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="tiger@kg-lq:10657 agent">
+    <serverData>
+      <paths name="tiger@kg-lq:10657 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Try_cvpr" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tiger@kg1:10895 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Try_cvpr" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="tiger@nas2:11177 agent">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/mnt/bn/gxnas/Try_douyin" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
